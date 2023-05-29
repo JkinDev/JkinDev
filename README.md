@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Joaquín</h1>
 
-<h3 align="center">Mi interés principal se centra en el aprendizaje sobre big data y desarrollo blockchain.</h3>
+<h3 align="center">My main interest is in learning about big data and blockchain development..</h3>
 <br>
 
 - 🔭 I’m currently studying on **42 Málaga Fundación Telefónica**
