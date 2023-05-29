@@ -20,3 +20,8 @@
 [![jrus-gar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3090649)](https://github.com/JaeSeoKim/badge42)
 [![jrus-gar's 42 Libft Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3068220)](https://github.com/JaeSeoKim/badge42)
 [![jrus-gar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3103838)](https://github.com/JaeSeoKim/badge42)
+| Proyecto         | Estado                                                                                                                |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Libft            | [![jrus-gar's 42 Libft Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3068220)](https://github.com/JaeSeoKim/badge42)  |
+| Printf           | [![jrus-gar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3090649)](https://github.com/JaeSeoKim/badge42) |
+| Born2BeRoot      | [![jrus-gar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cli954awc000608mgqq0qah7q/project/3103838)](https://github.com/JaeSeoKim/badge42) |
