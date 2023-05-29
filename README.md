@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **nikj911@protonmail.com**
 
+<p align="center">
+<a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jrus-gar?1337Badge=off&UM6P=off" alt="jrus-gar's 42 stats" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaquin rus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin rus" height="30" width="40" /></a>
