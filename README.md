@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in **Big Data**, **Blockchain** and **IA**  
 
-- 🌱 I’m currently learning **C, C++, Solidity**
+- 🌱 I’m currently learning **C and Solidity**
 
 - 📫 How to reach me **nikj911@protonmail.com**
 <br>
